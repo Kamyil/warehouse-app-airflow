@@ -29,5 +29,8 @@
     "@fontsource-variable/jetbrains-mono": "^5.3.0",
     "@fontsource-variable/manrope": "^5.3.0",
     "jsbarcode": "^3.12.3"
+  },
+  "engines": {
+    "node": "24.x"
   }
 }
